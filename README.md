@@ -1,9 +1,5 @@
 # Modelo-de-Projeto 2.0
 
-Nome: Lucas Lima Souza
+Nome: Lucas Lima Souza Nome: Marcos Samuel
 
-Nome: Marcos Samuel
-
-Nome: André Henrique
-
-Nome: Gabriel  Assuero
+Nome: André Henrique Nome: Gabriel  Assuero
